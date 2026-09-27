@@ -1,4 +1,4 @@
-# Don't Panic — Writeup
+# Don't Panic Writeup
 
 **Category:** Reverse engineering  
 **Difficulty:** Mid-hard
